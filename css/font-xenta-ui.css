@@ -1,0 +1,12 @@
+/*!
+ *  Font Xenta UI 0.1 by Dindin Hernawan - http://www.xentaos.org/ - @xentaos
+ *  License - http://scripts.sil.org/OFL (Font: SIL OFL 1.1, CSS: GNU GPL 3.0 License)
+ */
+/* FONT PATH
+ * -------------------------- */
+@font-face {
+  font-family: 'Xenta UI';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Xenta UI Reguler'), url(http://repository.xentaos.org/font/Xenta%20UI/Xenta%20UI%20Reguler.woff) format('woff');
+}
